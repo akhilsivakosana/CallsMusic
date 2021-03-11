@@ -1,1 +1,1 @@
-from .tgcalls import tgcalls, run
+from .tgcalls import pytgcalls, run
