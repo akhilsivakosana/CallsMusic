@@ -1,5 +1,5 @@
 from pyrogram import Client
-from tgcalls.tgcalls import TgCalls to
+from pytgcalls.pytgcalls import PyTgCalls
 
 import sira
 import config
